@@ -8,213 +8,24 @@
 	>
 
 <channel>
-	<title>LudusMax</title>
-	<atom:link href="https://ludusmax.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ludusmax.github.io/</link>
+	<title>LUDUS MAX</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>game theory and practice</description>
-	<lastBuildDate>Thu, 24 Dec 2020 09:35:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 01:54:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://ludusmax.github.io/wp-content/uploads/2019/12/cropped-LM-icon-32x32.png</url>
-	<title>LudusMax</title>
-	<link>https://ludusmax.github.io/</link>
+	<url>/wp-content/uploads/cropped-siteico1-32x32.jpg</url>
+	<title>LUDUS MAX</title>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>ULTIMATE GENERAL: CIVIL WAR&#8212;CONFEDERATE CAMPAIGN TIPS</title>
-		<link>https://ludusmax.github.io/ultimate-general-civil-war-confederate-campaign-tips/</link>
-		
-		<dc:creator><![CDATA[LM2]]></dc:creator>
-		<pubDate>Sun, 23 Aug 2020 03:00:12 +0000</pubDate>
-				<category><![CDATA[CSA]]></category>
-		<category><![CDATA[Ultimate General: Civil War]]></category>
-		<category><![CDATA[US Civil War]]></category>
-		<guid isPermaLink="false">https://ludusmax.github.io/?p=817</guid>
-
-					<description><![CDATA[Confederate Campaign on Brigadier General difficulty. &#160; Ultimate General: Civil War&#8212;Overview Confederate Campaign Preparation &#160; Potomac Fort Newport News First Bull Run Ambush Convoy Stay Alert Shiloh First Winchester Cross Keys Port Republic Gaines Mill Malvern Hill Cedar Mountain Manassas Depot Second Bull Run Chantilly Weapons Factory Antietam Corinth Prairie Grove Frederickburg Everettsville Stones River [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><em>Confederate Campaign on Brigadier General difficulty.</em></p>
-<p><span id="more-817"></span></p>
-<p>&nbsp;</p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-overview/">Ultimate General: Civil War&#8212;Overview</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-csa-campaign-preparation/">Confederate Campaign Preparation</a></p>
-<p>&nbsp;</p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-potomac-fort-csa/">Potomac Fort</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-newport-news-csa/">Newport News</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-first-bull-run-csa/">First Bull Run</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-ambush-convoy-csa/">Ambush Convoy</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-stay-alert-csa/">Stay Alert</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-shiloh-csa/">Shiloh</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-first-winchester-csa/">First Winchester</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-cross-keys-csa/">Cross Keys</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-port-republic-csa/">Port Republic</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-gaines-mill-csa/">Gaines Mill</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-malvern-hill-csa/">Malvern Hill</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-cedar-mountain-csa/">Cedar Mountain</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-manasses-depot-csa/">Manassas Depot</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-second-bull-run-csa/">Second Bull Run</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-chantilly-csa/">Chantilly</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-weapons-factory-csa/">Weapons Factory</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-antietam-csa/">Antietam</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-corinth-csa/">Corinth</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-prairie-grove-csa/">Prairie Grove</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-fredericksburg-csa/">Frederickburg</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-everettsville-csa/">Everettsville</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-stones-river-csa/">Stones River</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-blackwater-heights-csa/">Blackwater Heights</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-first-franklin-csa/">First Franklin</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-rio-hill-csa/">Rio Hill</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-chancellorsville-csa/">Chancellorsville</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-salem-church-csa/">Salem Church</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-brandy-station-csa/">Brandy Station</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-gettysburg-csa/">Gettysburg</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-siege-of-jackson-csa/">Siege of Jackson</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-chickamauga-csa/">Chickamauga</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-mansfield-csa/">Mansfield</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-saunders-farm-csa/">Saunders Farm</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-laurel-hill-csa/">Laurel Hill</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-cold-harbor-csa/">Cold Harbor</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-halls-ferry-road-csa/">Hall&#8217;s Ferry Road</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-hardin-pike-csa/">Hardin Pike</a></p>
-<p><a href="https://ludusmax.github.io/ultimate-general-civil-war-washington-csa/">Washington</a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>COMPANY OF HEROES 2&#8212;ARDENNES ASSAULT CAMPAIGN&#8212;MISSIONS GUIDE</title>
-		<link>https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-campaign-missions-guide/</link>
-		
-		<dc:creator><![CDATA[LM2]]></dc:creator>
-		<pubDate>Sat, 08 Aug 2020 03:36:18 +0000</pubDate>
-				<category><![CDATA[Ardennes Assault]]></category>
-		<category><![CDATA[Company of Heroes 2]]></category>
-		<category><![CDATA[strategy]]></category>
-		<category><![CDATA[World War II]]></category>
-		<guid isPermaLink="false">https://ludusmax.github.io/?p=564</guid>
-
-					<description><![CDATA[Tips for winning COH2 Ardennes Assault missions, including gold medals, on the hardest difficulty level General Comments Introductory Mission Hold the Line (Elsenborn Ridge) Rescue the Wounded (Bastogne) Armored Assault Railsplitters Total Domination Surgical Strike (Eschdorf) Hardpoint At the Crossroads (St. Vith) The Linkup (Houffalize) Preservation Fuel Drain (Stoumont) Supply Lines (Stavelot) Watchtower Tank Grab [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><em>Tips for winning COH2 Ardennes Assault missions, including gold medals, on the hardest difficulty level<br />
-</em></p>
-<p><span id="more-564"></span></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-general-comments/">General Comments</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-introductory-mission/">Introductory Mission</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-elsenborn-ridge/">Hold the Line (Elsenborn Ridge)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-rescue-the-wounded-bastogne/">Rescue the Wounded (Bastogne)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-armored-assault/">Armored Assault</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-railsplitters/">Railsplitters</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-total-domination/">Total Domination</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-surgical-strike-eschdorf/">Surgical Strike (Eschdorf)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-hardpoint/">Hardpoint</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-at-the-crossroads-st-vith/">At the Crossroads (St. Vith)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-the-linkup-houffalize/">The Linkup (Houffalize)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-preservation/">Preservation</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-fuel-drain-stoumont/">Fuel Drain (Stoumont)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-supply-lines-stavelot/">Supply Lines (Stavelot)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-watchtower/">Watchtower</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-tank-grab/">Tank Grab</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-stay-out-of-sight-espeler/">Stay Out of Sight (Espeler)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-village-on-the-border-ouren/">Village on the Border (Ouren)</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-ardennes-assault-crossing-the-line-siegfried-line/">Crossing the Line (Siegfried Line)</a></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>COMPANY OF HEROES 2&#8212;THEATER OF WAR&#8212;MISSIONS GUIDE</title>
-		<link>https://ludusmax.github.io/company-of-heroes-2-theater-of-war-missions-guide/</link>
-		
-		<dc:creator><![CDATA[LM2]]></dc:creator>
-		<pubDate>Sat, 08 Aug 2020 02:19:03 +0000</pubDate>
-				<category><![CDATA[Company of Heroes 2]]></category>
-		<category><![CDATA[strategy]]></category>
-		<category><![CDATA[Theater of War]]></category>
-		<category><![CDATA[World War II]]></category>
-		<guid isPermaLink="false">https://ludusmax.github.io/?page_id=520</guid>
-
-					<description><![CDATA[Tips for Winning COH2 Theater of War Missions, Mostly on General Difficulty Operation Barbarossa Brody Tank War General Winter Faceoff at Rostov Encirclement at Smolensk Cold Weather Indirect Fire Winter Defense Blitzkrieg Officer Assassination Schildkroteberg Pripyat River Minsk Moscow Approach Moscow Lines The Crimea First Kharkov Leningrad Approach Oka River &#160; Case Blue Assault on [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><em>Tips for Winning COH2 Theater of War Missions, Mostly on General Difficulty</em></p>
-<p><span id="more-520"></span></p>
-<p><strong>Operation Barbarossa</strong></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-brody-tank-war/">Brody Tank War</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-general-winter/">General Winter</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-faceoff-at-rostov/">Faceoff at Rostov</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-encirclement-at-smolensk/">Encirclement at Smolensk</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-cold-weather/">Cold Weather</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-indirect-fire/">Indirect Fire</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-winter-defense/">Winter Defense</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-blitzkrieg/">Blitzkrieg</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-officer-assassination/">Officer Assassination</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-schildkroteberg/">Schildkroteberg</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-pripyat-river/">Pripyat River</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-minsk/">Minsk</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-moscow-approch/">Moscow Approach</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-moscow-lines/">Moscow Lines</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-the-crimea/">The Crimea</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-first-kharkov/">First Kharkov</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-leningrad-approach/">Leningrad Approach</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-oka-river/">Oka River</a></p>
-<p>&nbsp;</p>
-<p><strong>Case Blue</strong></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-assault-on-voronezh/">Assault on Voronezh</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-convoy/">Convoy</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-tiger-ace/">Tiger Ace</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-retreat-to-the-don/">Retreat to the Don</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-kharkov-pursuit/">Kharkov Pursuit</a></p>
-<p>&nbsp;</p>
-<p><strong>Victory at Stalingrad</strong></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-kalach-pincer/">Kalach Pincer</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-tatsinskaya-raid/">Tatsinskaya Raid</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-bridge-defense/">Bridge Defense</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-stalingrad-resistance/">Stalingrad Resistance</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-winter-storm/">Winter Storm</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-stalingrad-encirclement/">Stalingrad Encirclement</a></p>
-<p>&nbsp;</p>
-<p><strong>The Southern Fronts</strong></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-spring-rasputitsa/">Spring Rasputitsa</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-occupation/">Occupation</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-breaking-lines/">Breaking Lines</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-no-retreat-no-surrender/">No Retreat No Surrender</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-panzer-crossing/">Panzer Crossing</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-retreat-to-the-donets/">Retreat to the Donets</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-general-mud/">General Mud</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-heavy-rain/">Heavy Rain</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-kharkov-divide/">Kharkov Divide</a></p>
-<p><a href="https://ludusmax.github.io/company-of-heroes-2-theater-of-war-storming-the-donets/">Storming the Donets</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
