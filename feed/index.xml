@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>game theory and practice</description>
-	<lastBuildDate>Thu, 17 Aug 2023 05:12:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Aug 2023 06:03:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>/wp-content/uploads/cropped-siteico1-32x32.jpg</url>
