@@ -4,9 +4,9 @@ Theme URI: https://sharkthemes.com/downloads/blogjr/
 Author: Shark Themes
 Author URI: https://sharkthemes.com/
 Description: BlogJr is a minimal, clean and asthetic gutenberg ready WordPress blog theme with an elegant, carefully crafted design. This powerful, responsive niche blog theme is ideal for your personal blogs, whether your passion is travel, beauty, nature, photography, architecture, DIY… the list goes on! BlogJr will make your WordPress look beautiful in all devices. BlogJr theme has wide list of customizable features including front page customizable sections with customizer api, wide and boxed layout, unlimited theme color and many more options. It comes with cross-browser compatibility, mobile friendly design and responsive features.
-Version: 2.0.1
+Version: 2.0.3
 Requires PHP: 5.6
-Tested up to: 6.0
+Tested up to: 6.3
 Requires at least: 5.0
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -2152,7 +2152,7 @@ ol.comment-list {
 	margin-bottom: 25px;
 }
 .single-post article.hentry {
-	margin-bottom: 0;
+	margin-bottom: 25px;
 }
 .single-post .blog-post h2.entry-title {
     color: #444444;
@@ -3184,6 +3184,10 @@ h2.entry-title a {
 #introduction .page-section.left-align .entry-container {
 	padding-right: 0;
 	padding-left: 50px;
+}
+#introduction .page-section.center-align .entry-container {
+	padding-right: 0;
+	padding-left: 0;
 }
 #introduction .page-section.left-align .post-wrapper {
 	flex-direction: row-reverse;
